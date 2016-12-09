@@ -1,6 +1,6 @@
 {
   "name": "sinonimos",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Busca sinonimos via linha de comando",
   "main": "index.js",
   "dependencies": {
@@ -21,5 +21,8 @@
   "preferGlobal": "true",
   "directories": {
     "bin": "./bin"
+  },
+  "bin": {
+    "sinonimo": "index.js"
   }
 }
