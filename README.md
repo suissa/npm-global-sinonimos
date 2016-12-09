@@ -1,15 +1,15 @@
 # Sinonimo
 
-Módulo global para consultar palavras sinônimos via terminal.
+Módulo global para consultar sinônimos via terminal.
 
 Para instalar basta:
 
 ```
-npm i -g sinonimo
+npm i -g sinonimos
 ```
 
 Para executar, no seu terminal, faça:
 
 ```
-sinonimo palavra
+sinonimos anarquia
 ```
