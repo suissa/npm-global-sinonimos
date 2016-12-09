@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 const http = require('http')
 const cheerio = require('cheerio')
-const utf8 = require('utf8')
 const words = process.argv
 const word = process.argv[process.argv.length-1]
 const url = 'http://www.sinonimos.com.br/'
