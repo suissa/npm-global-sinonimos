@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Busca sinonimos via linha de comando",
   "main": "index.js",
-  "bin": {
-    "sinonimos": "sinonimo"
-  },
   "dependencies": {
     "cheerio": "^0.22.0"
   },
